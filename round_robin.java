@@ -53,7 +53,7 @@ q=0;
 qu.add(0);   //add first process
 int slice = 3;
 int flag = 0;
-while(e!=4)
+while(e!=n)
 {
 
 
